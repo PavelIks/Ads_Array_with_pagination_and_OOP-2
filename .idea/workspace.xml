@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2d6530a-5af0-4490-8533-300eb4d6c624" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/AlexZ1937/OLXclasses" />
+      </set>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1jT804hcaOEnYcHcyoQUqPo9dNd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\student\PhpstormProjects\untitled2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\student\PhpstormProjects\untitled2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.olxwithclas.php">
+    <configuration name="olxwithclas.php" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/untitled2/olxwithclas.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="untitled2" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="olxwithclas.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/olxwithclas.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.olxwithclas.php" />
+      <item itemvalue="PHP Script.olxwithclas.php" />
+      <item itemvalue="PHPUnit.untitled2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.olxwithclas.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2d6530a-5af0-4490-8533-300eb4d6c624" name="Default Changelist" comment="" />
+      <created>1603816495132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603816495132</updated>
+      <workItem from="1603816496179" duration="7329000" />
+      <workItem from="1603901518950" duration="7861000" />
+      <workItem from="1603986417211" duration="3715000" />
+      <workItem from="1603991792091" duration="387000" />
+      <workItem from="1603992918457" duration="3775000" />
+      <workItem from="1604072923881" duration="2036000" />
+      <workItem from="1604331654890" duration="1808000" />
+      <workItem from="1604507342428" duration="6797000" />
+      <workItem from="1604937750172" duration="803000" />
+      <workItem from="1605628960103" duration="56000" />
+      <workItem from="1609954564078" duration="3189000" />
+      <workItem from="1609957814809" duration="594000" />
+      <workItem from="1610018139997" duration="1824000" />
+      <workItem from="1610020007898" duration="1771000" />
+      <workItem from="1610021875561" duration="1411000" />
+      <workItem from="1610025302013" duration="1301000" />
+      <workItem from="1610027236749" duration="1617000" />
+      <workItem from="1610116967823" duration="932000" />
+      <workItem from="1610118045189" duration="604000" />
+    </task>
+    <task id="LOCAL-00001" summary="break">
+      <created>1604512080543</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604512080544</updated>
+    </task>
+    <task id="LOCAL-00002" summary="try file">
+      <created>1604514852783</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604514852783</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="break" />
+    <MESSAGE value="try file" />
+    <option name="LAST_COMMIT_MESSAGE" value="try file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="547" y="173" key="#CLI_Interpreters" timestamp="1604937838406">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="547" y="173" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1604937838406" />
+    <state x="674" y="161" key="#PHP" timestamp="1604937842966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="674" y="161" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1604937842966" />
+    <state x="31" y="0" width="1089" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609956084756">
+      <screen x="0" y="0" width="1150" height="691" />
+    </state>
+    <state x="31" y="0" width="1089" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1150.691@0.0.1150.691" timestamp="1609956084756" />
+    <state x="306" y="95" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610021319248">
+      <screen x="0" y="0" width="1150" height="691" />
+    </state>
+    <state x="306" y="95" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1150.691@0.0.1150.691" timestamp="1610021319248" />
+    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1604514852373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604514852373" />
+    <state x="740" y="273" key="FileChooserDialogImpl" timestamp="1605629015414">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="273" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605629015414" />
+    <state x="838" y="415" key="Github.ShareDialog" timestamp="1604511582132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="415" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604511582132" />
+    <state x="766" y="223" key="Github.UntrackedFilesDialog" timestamp="1604511588162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="766" y="223" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604511588162" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1604947170812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604947170812" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1604947170812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604947170812" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1604947170812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604947170812" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1604947170812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604947170812" />
+    <state x="743" y="241" key="NewPhpClassDialog" timestamp="1603818500789">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="241" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603818500789" />
+    <state x="795" y="442" key="NewPhpFileDialog" timestamp="1604508320835">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="795" y="442" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604508320835" />
+    <state x="79" y="0" key="SettingsEditor" timestamp="1610118871557">
+      <screen x="0" y="0" width="1150" height="691" />
+    </state>
+    <state x="79" y="0" key="SettingsEditor/0.0.1150.691@0.0.1150.691" timestamp="1610118871557" />
+    <state x="552" y="251" key="Vcs.Push.Dialog.v2" timestamp="1604514857594">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604514857594" />
+  </component>
+</project>
