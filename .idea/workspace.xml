@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2d6530a-5af0-4490-8533-300eb4d6c624" name="Default Changelist" comment="">
+    <list default="true" id="e2d6530a-5af0-4490-8533-300eb4d6c624" name="Default Changelist" comment="Updated-2.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RenderMini.php" beforeDir="false" afterPath="$PROJECT_DIR$/RenderMini.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blockinfo.php" beforeDir="false" afterPath="$PROJECT_DIR$/blockinfo.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/olxwithclas.php" beforeDir="false" afterPath="$PROJECT_DIR$/olxwithclas.php" afterDir="false" />
     </list>
@@ -121,6 +120,7 @@
       <workItem from="1610027236749" duration="1617000" />
       <workItem from="1610116967823" duration="932000" />
       <workItem from="1610118045189" duration="1585000" />
+      <workItem from="1610119893254" duration="1920000" />
     </task>
     <task id="LOCAL-00001" summary="break">
       <created>1604512080543</created>
@@ -136,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604514852783</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated-2.">
+      <created>1610119972149</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610119972149</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +167,8 @@
     </ignored-roots>
     <MESSAGE value="break" />
     <MESSAGE value="try file" />
-    <option name="LAST_COMMIT_MESSAGE" value="try file" />
+    <MESSAGE value="Updated-2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated-2." />
   </component>
   <component name="WindowStateProjectService">
     <state x="547" y="173" key="#CLI_Interpreters" timestamp="1604937838406">
@@ -225,9 +233,10 @@
       <screen x="0" y="0" width="1150" height="691" />
     </state>
     <state x="79" y="0" key="SettingsEditor/0.0.1150.691@0.0.1150.691" timestamp="1610118871557" />
-    <state x="552" y="251" key="Vcs.Push.Dialog.v2" timestamp="1604514857594">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="331" y="163" key="Vcs.Push.Dialog.v2" timestamp="1610119976524">
+      <screen x="0" y="0" width="1150" height="691" />
     </state>
+    <state x="331" y="163" key="Vcs.Push.Dialog.v2/0.0.1150.691@0.0.1150.691" timestamp="1610119976524" />
     <state x="552" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604514857594" />
   </component>
 </project>

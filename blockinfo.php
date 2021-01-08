@@ -5,7 +5,7 @@
     class FullrenDesc
     {
         public $info;
-        public function __construct(){}
+        public function __construct() {}
 
         function RenderFullDesc($arr)
         {
@@ -13,7 +13,7 @@
                 '
                     <div style="margin-left: 5%; margin-top: 2%;">
                         <div style="width: 500px;height: 400px;">
-                            <img src="'.$arr->GetImage().'" style="width: 360px;height: 400px;" />' .($arr->GetTopic()=="true"?'<div style="position: absolute;background: aqua;width: 85px;margin-top: -44px; font-size: 38px;">ТОП</div>':'<div></div>').'
+                            <img src="'.$arr->GetImage().'" style="width: 360px; height: 400px;" />' .($arr->GetTopic()=="true"?'<div style="position: absolute; background: aqua; width: 85px; margin-top: -44px; font-size: 38px;">ТОП</div>':'<div></div>').'
                         </div> 
                         <div>
                             <h2>'.$arr->GetName().'</h2>
@@ -33,7 +33,7 @@
                             <h3>'. $arr->GetPlace() .' '.$arr->GetTime().'</h3>
                         </div>
                         <br><br>
-                        <a style="width: 200px; float: left;height: 40px;  font-size: 25px;  background-color: darkgray;" href="olxwithclas.php?Plage=1">Return to Main</a>
+                        <a style="width: 200px; float: left; height: 40px; font-size: 25px; background-color: darkgray;" href="olxwithclas.php?Plage=1">Return to Main</a>
                     </div>
                 ';
         }
@@ -41,7 +41,7 @@
 
     function ShowAd()
     {
-        $asoc=
+        $asoc =
             [
                 0 => new Info("iPhone 11 256 GB", "Днепр, Новокодакский", date("j.n.Y h:m:s"),"https://ireland.apollo.olxcdn.com/v1/files/9gqcltubszrt2-UA/image;s=644x461", "24 000 грн.","true","Машинка в хорошем состоянии!",0),
                 1 => new Info("купить Айфон | iPhone 8 PLUS 64/256 Neverlock","Днепр, Центральный",date("j.n.Y h:m:s"),"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxOhVQMW6FvMWuq07O4k_gt0xvDno_biMbKghOcnTWxFPFZFcSN-l2qjcQOYgokbE9AGBn2_yK&usqp=CAc", "10 699 грн.","false","Работает как часы!",0),
@@ -56,8 +56,8 @@
                 10 => new Info("Продам iPhone 6 plus 12gb/ Айфон 6 плюс 12гб Состояние ИДЕАЛ!","Днепр, Соборный",date("j.n.Y h:m:s"),"https://i1.rozetka.ua/goods/1335538/apple_iphone_6s_plus_128gb_gold_images_1335538059.jpg","2 850 грн.","false","Купи, а то пожалеешь",0),
                 11 => new Info("Iphone Xr красный 128гб","Днепр, Соборный",date("j.n.Y h:m:s"),"https://ireland.apollo.olxcdn.com/v1/files/khohj6tl0u6y-UA/image;s=644x461","19 500 грн.","true","Купи, он тебя пожалеет",0)
             ];
-        $info='';
-        $ad=new FullrenDesc();
+        $info = '';
+        $ad = new FullrenDesc();
         if(isset($_GET['id']))
         {
             foreach ($asoc as $key=>$value)
