@@ -11,7 +11,6 @@
 
         public function Render()
         {
-
             return '
                         <div class="sell"><a style="text-decoration: none; color: black;" href="blockinfo.php?id='.$this->Info->GetName().'">
                         <img class="im" src="'.$this->Info->GetImage().'"/>'.($this->Info->GetTopic()=="true"?'<div class="top">ТОП</div>':'<div></div>').'

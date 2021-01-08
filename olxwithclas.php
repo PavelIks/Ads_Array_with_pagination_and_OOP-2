@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>OLX</title>
     <?php
         echo '<link href="style1.css" rel="stylesheet"/>';
     ?>
@@ -27,7 +27,6 @@
                             echo '<img style="width:100px; height: 105px;" src="imges/' . $entry . '" />';
                         }
                     }
-
                     $asoc =
                         [
                             0 => new Info("iPhone 11 256 GB", "Днепр, Новокодакский", date("j.n.Y h:m:s"),"https://ireland.apollo.olxcdn.com/v1/files/9gqcltubszrt2-UA/image;s=644x461", "24 000 грн.", "true", "Машинка в хорошем состоянии!", 0),
@@ -43,8 +42,6 @@
                             10 => new Info("Продам iPhone 6 plus 12gb/ Айфон 6 плюс 12гб Состояние ИДЕАЛ!", "Днепр, Соборный", date("j.n.Y h:m:s"),"https://i1.rozetka.ua/goods/1335538/apple_iphone_6s_plus_128gb_gold_images_1335538059.jpg", "2 850 грн.", "false", "Купи, а то пожалеешь", 0),
                             11 => new Info("Iphone Xr красный 128гб", "Днепр, Соборный", date("j.n.Y h:m:s"),"https://ireland.apollo.olxcdn.com/v1/files/khohj6tl0u6y-UA/image;s=644x461", "19 500 грн.", "true", "Купи, он тебя пожалеет", 0)
                         ];
-
-
                     $mn = new Main($asoc,5);
                     if (isset($_GET['Plage']))
                     {
@@ -64,7 +61,6 @@
                                 echo $mn->RenderBy($_GET['Plage']);
                             }
                     }
-
                 else
                     {
                         echo $mn->RenderBy(1);
