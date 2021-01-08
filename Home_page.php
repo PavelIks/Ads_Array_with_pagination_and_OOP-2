@@ -8,10 +8,10 @@
     ?>
 </head>
 <body>
-<form method="get" action="olxwithclas.php">
+<form method="get" action="Home_page.php">
     <div class="main">
         <?php
-        include_once("DivInfo.php");
+        include_once("Product_Data_from_Home_Page.php");
         include ("Main.php");
 
         $asoc =

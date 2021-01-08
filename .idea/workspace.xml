@@ -19,10 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2d6530a-5af0-4490-8533-300eb4d6c624" name="Default Changelist" comment="Updated-2.">
+    <list default="true" id="e2d6530a-5af0-4490-8533-300eb4d6c624" name="Default Changelist" comment="Updated-3.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockinfo.php" beforeDir="false" afterPath="$PROJECT_DIR$/blockinfo.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/olxwithclas.php" beforeDir="false" afterPath="$PROJECT_DIR$/olxwithclas.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DivInfo.php" beforeDir="false" afterPath="$PROJECT_DIR$/Product_Data_from_Home_Page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RenderMini.php" beforeDir="false" afterPath="$PROJECT_DIR$/RenderMini.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RenderPage.php" beforeDir="false" afterPath="$PROJECT_DIR$/RenderPage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blockinfo.php" beforeDir="false" afterPath="$PROJECT_DIR$/Product_Page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/olxwithclas.php" beforeDir="false" afterPath="$PROJECT_DIR$/Home_page.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +69,7 @@
       <recent name="C:\Users\student\PhpstormProjects\untitled2" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.olxwithclas.php">
+  <component name="RunManager" selected="PHP Script.Home_page.php">
     <configuration name="olxwithclas.php" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/untitled2/olxwithclas.php" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -74,7 +77,7 @@
       <TestRunner directory="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="olxwithclas.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/olxwithclas.php">
+    <configuration name="Home_page.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Home_page.php">
       <CommandLine>
         <PhpTestInterpreterSettings>
           <option name="interpreterName" value="PHP" />
@@ -84,12 +87,12 @@
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.olxwithclas.php" />
-      <item itemvalue="PHP Script.olxwithclas.php" />
+      <item itemvalue="PHP Script.Home_page.php" />
       <item itemvalue="PHPUnit.untitled2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="PHP Script.olxwithclas.php" />
+        <item itemvalue="PHP Script.Home_page.php" />
       </list>
     </recent_temporary>
   </component>
@@ -121,6 +124,9 @@
       <workItem from="1610116967823" duration="932000" />
       <workItem from="1610118045189" duration="1585000" />
       <workItem from="1610119893254" duration="1920000" />
+      <workItem from="1610121873616" duration="1897000" />
+      <workItem from="1610131040618" duration="594000" />
+      <workItem from="1610135931349" duration="1309000" />
     </task>
     <task id="LOCAL-00001" summary="break">
       <created>1604512080543</created>
@@ -143,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610119972149</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated-3.">
+      <created>1610121939713</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610121939717</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,7 +181,8 @@
     <MESSAGE value="break" />
     <MESSAGE value="try file" />
     <MESSAGE value="Updated-2." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated-2." />
+    <MESSAGE value="Updated-3." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated-3." />
   </component>
   <component name="WindowStateProjectService">
     <state x="547" y="173" key="#CLI_Interpreters" timestamp="1604937838406">
@@ -233,10 +247,10 @@
       <screen x="0" y="0" width="1150" height="691" />
     </state>
     <state x="79" y="0" key="SettingsEditor/0.0.1150.691@0.0.1150.691" timestamp="1610118871557" />
-    <state x="331" y="163" key="Vcs.Push.Dialog.v2" timestamp="1610119976524">
+    <state x="331" y="163" key="Vcs.Push.Dialog.v2" timestamp="1610121942155">
       <screen x="0" y="0" width="1150" height="691" />
     </state>
-    <state x="331" y="163" key="Vcs.Push.Dialog.v2/0.0.1150.691@0.0.1150.691" timestamp="1610119976524" />
+    <state x="331" y="163" key="Vcs.Push.Dialog.v2/0.0.1150.691@0.0.1150.691" timestamp="1610121942155" />
     <state x="552" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604514857594" />
   </component>
 </project>
